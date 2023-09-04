@@ -9,3 +9,4 @@ Introducing a captivating Blinkit clone crafted with HTML,CSS and Bootstrap, Sea
 
 
 ## Project Snippet:
+![Screenshot (221)](https://github.com/dharmendrakumarsoni/Blinkit-project/assets/136853362/8d3baf0a-21ac-4fef-9c6f-7b0fce6e0684)
